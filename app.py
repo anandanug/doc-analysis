@@ -93,7 +93,7 @@ elif page == "Aplikasi":
 
     # Upload PDF file
     # uploaded_file = st.file_uploader("Upload a PDF file", type="pdf")
-    uploaded_file = "doc/HR-Employee Handbook.pdf"
+    uploaded_file = "HR-Employee Handbook.pdf"
 
     # Process the uploaded PDF
     if uploaded_file:
